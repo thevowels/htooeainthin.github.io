@@ -3,7 +3,7 @@
 ---
 title: ပထမအသည်းကွဲဇာတ်လမ်း
 layout: post
-date: '2020-07-01 23:48:00 +0630'
+date: '2020-07-02 00:31:00 +0630'
 background: https://lushmagazinemm.com/wp-content/uploads/2019/07/11535798_845292305507095_4063909359630462778_n.jpg
 tags:
 subtitle:
