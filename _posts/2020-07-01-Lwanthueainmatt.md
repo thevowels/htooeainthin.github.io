@@ -2,12 +2,12 @@
 title: လွမ်းသူ့ အိမ်မက်
 layout: post
 date: '2020-07-01 06:34:49 +0000'
-https://obobeatz.files.wordpress.com/2011/08/293399_145639582187284_100002237283781_266322_7611634_n.jpg
+background: https://obobeatz.files.wordpress.com/2011/08/293399_145639582187284_100002237283781_266322_7611634_n.jpg
 tags:
 - HtooEainThin
 - Music
 subtitle: အလွမ်းတခု အတွက် လွမ်းသူ့ အိမ်မက်
-artist: artstation.com/ett
+artist: Manson Kit
 ---
 
 # လွမ်းသူ့ အိမ်မက်
